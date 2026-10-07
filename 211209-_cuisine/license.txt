@@ -1,0 +1,11 @@
+Model Information:
+* title:	211209- Cuisine
+* source:	https://sketchfab.com/3d-models/211209-cuisine-d8400af940bc4bfe8d172d8fe0b3cca3
+* author:	Andykk (https://sketchfab.com/andykwok91011)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "211209- Cuisine" (https://sketchfab.com/3d-models/211209-cuisine-d8400af940bc4bfe8d172d8fe0b3cca3) by Andykk (https://sketchfab.com/andykwok91011) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
